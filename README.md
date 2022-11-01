@@ -1,11 +1,11 @@
 <h1 align="center">Hello traveler!🤠 My name is Rafa</h1>
-<h3 align="center">A driven Game and Software Developer in the Bay Area</h3>
+<h3 align="center">I'm a Video Game / VR / Software developer in the Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rafapp.github.io/Rafagamedev/](https://rafapp.github.io/Rafagamedev/)
+- 🎮 Play my games, and check out my projects 💻! --> [https://rafapp.github.io/Rafagamedev/](https://rafapp.github.io/Rafagamedev/)
 
-- 📫 How to reach me **rpadiper@gmail.com**
+- 📫 How to reach me: **rpadiper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
