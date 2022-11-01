@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
-- 🎮 Play my games, and check out my projects 💻! --> [https://rafapp.github.io/Rafagamedev/](https://rafapp.github.io/Rafagamedev/)
+- 🎮 Play my games, and check out my projects 💻 [https://rafapp.github.io/Rafagamedev/](https://rafapp.github.io/Rafagamedev/)
 
 - 📫 How to reach me: **rpadiper@gmail.com**
 
