@@ -3,7 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafapp&exclude_repo=SJSU-MaterialsEngineering-VR-lab,GlobalGameJam2021-AquaHero,OfBreadAndButter,SumoTime&layout=compact)](https://github.com/Rafapp/Rafapp)
 
-https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966](https://user-images.githubusercontent.com/38381290/199358466-ae76d8de-fedc-47c4-8930-e11561b92bed.gif)
+
 <!--
 **Rafapp/Rafapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
