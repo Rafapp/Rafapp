@@ -1,5 +1,5 @@
 <h1 align="center">Hello traveler!🤠 My name is Rafael</h1>
-<h3 align="center">I'm gameplay, graphics, and game engine programmer located in the California Bay Area</h3>
+<h3 align="center">I'm gameplay and graphics engineer located in the California Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
