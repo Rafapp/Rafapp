@@ -5,7 +5,7 @@
 
 - 🎮 Check out all my projects and experience 💻 [https://www.rafagamedev.com]
 
-- 📫 How to reach me: **rpadiper@gmail.com**
+- 📫 How to reach me: **rpadiper [at] gmail [dot] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
