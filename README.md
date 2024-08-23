@@ -1,5 +1,5 @@
 <h1 align="center">Hello traveler!🤠 My name is Rafael</h1>
-<h3 align="center">I'm Technical Artist/Technical Director currently working at the Walt Disney Company</h3>
+<h3 align="center">I'm Technical Artist/Technical Director currently working at the Walt Disney Company, doing my Disney College Program!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
