@@ -1,9 +1,9 @@
 <h1 align="center">Hello traveler!🤠 My name is Rafael</h1>
-<h3 align="center">I'm Technical Artist located in the California Bay Area</h3>
+<h3 align="center">I'm Technical Artist/Technical Director currently working at the Walt Disney Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
-- 🎮 Play my games, and check out my projects 💻 [https://www.rafagamedev.com]
+- 🎮 Check out all my projects and experience 💻 [https://www.rafagamedev.com]
 
 - 📫 How to reach me: **rpadiper@gmail.com**
 
