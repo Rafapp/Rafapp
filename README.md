@@ -1,4 +1,4 @@
-<h1 align="center">Hello traveler!🤠 My name is Rafael</h1>
+<h1 align="center">Hello traveler!🤠 My name is Rafael (Rafa or Raff for short)</h1>
 <h3 align="center">I'm an aspiring Technical Artist/Technical Director, currently interning at the Walt Disney Company through the DCP!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
