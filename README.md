@@ -1,5 +1,5 @@
 <h1 align="center">Hello traveler!🤠 My name is Rafael (Rafa)</h1>
-<h3 align="center">I'm a creative technologist currently working at Walt Disney Animation Studios</h3>
+<h3 align="center">I'm a creative technologist, currently pursuing a M.S. in Computer Graphics at the University of Utah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafapp&label=Profile%20views&color=0e75b6&style=flat" alt="rafapp" /> </p>
 
